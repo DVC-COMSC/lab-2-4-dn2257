@@ -4,7 +4,7 @@ def main():
     ##################################################
     original_string = "Python Programming"
     sub1 = original_string[0:6]
-    sub2 = original_string[7:19]
+    sub2 = original_string[7:18]
     merge_str = sub2+sub1
     print(sub2)
     print(sub1)
